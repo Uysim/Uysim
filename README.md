@@ -1,6 +1,6 @@
 ### Full Stack Software Engineer | 🏆 𝐓𝐨𝐩 𝟑% 𝐨𝐧 𝐔𝐩𝐰𝐨𝐫𝐤 ⭐⭐⭐⭐⭐
 
-For more than 8 years in software development, I have helped kickstart a lot of startups for my client.
+For more than 9 years in software development, I have helped kickstart a lot of startups for my client.
 I can ensure your application will be fully covered with automated test by adapting TDD. Follow the style guide, best practices, and readable code for the future scale.
 
 I am the kind of guy who focuses on application structure, data structure, collaboration, improving application, and the sense of code by its responsibility, rather than being a 'nerd' who focuses solely on low-level coding that can be found on the internet.
