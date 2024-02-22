@@ -7,6 +7,7 @@ I am the kind of guy who focuses on application structure, data structure, colla
 
 From what I come across, I have sharpened skills that required for start-up
 - Back End: Ruby On Rails, NextJS, Serverless
+- Machine Learning: HuggingFace, PyTorch, Tensorflow, Sk-Learn
 - Front end: ReactJS, VueJS, NextJS, Jquery, Bootstrap, and Sass
 - Web Server: Nginx, Apache
 - TDD/BDD: RSpec, Cucumber, Capybara, Selenium, Jest, Cypress
@@ -17,7 +18,7 @@ From what I come across, I have sharpened skills that required for start-up
 - Database: PostgreSQL, MySQL
 - Cloud platforms: AWS, Google Cloud, Heroku, DigitalOcean, Vultr
 - Containerization: Docker Swarm, Kubernetes
-- Machine Learning: Numpy, Pandas, Keras, PyTorch, Sk-Learn
+
 
 I have worked with business models: KYC, CRM, Marketing, FineTech, artificial intelligence (AI), Real Estate Customization and Management, Marketing, e-commerce, Market Place and Classified ads.
 I am always open to new ideas and like solving challenges. Don’t hesitate to contact me regardless of the project complexity you need!
