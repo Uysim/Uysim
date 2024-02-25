@@ -23,4 +23,4 @@ From what I come across, I have sharpened skills that required for start-up
 I have worked with business models: KYC, CRM, Marketing, FineTech, artificial intelligence (AI), Real Estate Customization and Management, Marketing, e-commerce, Market Place and Classified ads.
 I am always open to new ideas and like solving challenges. Don’t hesitate to contact me regardless of the project complexity you need!
 
-Check out my [Upwork Profile](https://www.upwork.com/freelancers/~019c06dd3d4065a0ac) | [LinkedIn Profile](https://www.linkedin.com/in/uysim-ty/)
+Check out my [Upwork Profile](https://www.upwork.com/freelancers/uysim) | [LinkedIn Profile](https://www.linkedin.com/in/uysim-ty/)
