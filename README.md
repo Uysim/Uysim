@@ -24,3 +24,7 @@ I have worked with business models: KYC, CRM, Marketing, FineTech, artificial in
 I am always open to new ideas and like solving challenges. Don’t hesitate to contact me regardless of the project complexity you need!
 
 Check out my [Upwork Profile](https://www.upwork.com/freelancers/uysim) | [LinkedIn Profile](https://www.linkedin.com/in/uysim-ty/)
+
+![Uysim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uysim&rank_icon=percentile&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uysim&layout=donut)
+
